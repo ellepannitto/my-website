@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giuseppe Attardi | Ludovica</title>
+    <link>https://ellepannitto.github.io/authors/giuseppe-attardi/</link>
+      <atom:link href="https://ellepannitto.github.io/authors/giuseppe-attardi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giuseppe Attardi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Aug 2017 20:37:47 +0200</lastBuildDate>
+    <image>
+      <url>https://ellepannitto.github.io/img/icon-192.png</url>
+      <title>Giuseppe Attardi</title>
+      <link>https://ellepannitto.github.io/authors/giuseppe-attardi/</link>
+    </image>
+    
+    <item>
+      <title>FA3L at SemEval-2017 Task 3: A ThRee Embeddings Recurrent Neural Network for Question Answering</title>
+      <link>https://ellepannitto.github.io/publication/fa3l/</link>
+      <pubDate>Wed, 16 Aug 2017 20:37:47 +0200</pubDate>
+      <guid>https://ellepannitto.github.io/publication/fa3l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
