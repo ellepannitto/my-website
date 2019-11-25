@@ -6,11 +6,11 @@ authors:
 - admin
 - Lavinia Salicchi
 - Alessandro Lenci
-date: 2018-12
+date: 2018-12-16T20:37:47+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2018-12-16T20:37:47+02:00
+publishDate: 2018-12-16T20:37:47+03:00
 
 
 # Publication type.

@@ -4,7 +4,7 @@
 title: "Event Knowledge in Compositional Distributional Semantics"
 authors:
 - admin
-date: 2018-10
+date: 2018-10-16T20:37:47+02:30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

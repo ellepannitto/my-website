@@ -7,22 +7,63 @@
   name = "Home"
   url = "#about"
   weight = 10
+  identifier = "home"
+  
+[[main]]
+  name = "About"
+  url = "#about"
+  weight = 11 
+  parent="home"
   
 [[main]]
   name = "Education"
   url = "#experience"
-  weight = 11 
+  weight = 12 
+  parent="home"
 
 [[main]]
   name = "Publications"
   url = "#featured"
   weight = 15
+  parent="home"
 
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
+  parent="home"
+  
+[[main]]
+  name = "Breadcrumbs"  # Title of the link.
+  url = "breadcrumbs/"  # Widget Page folder name.
+  weight = 16  # Position of the link in the navigation bar.
+  identifier = "breadcrumbs"
+
+#[[main]]
+#  name = "Other"  # Title of the link.
+#  url = "other/"  # Widget Page folder name.
+#  weight = 18  # Position of the link in the navigation bar.
+#  identifier = "other"
+
+#[[main]]
+#  name = "Krino"  # Title of the link.
+#  url = "other/#krino"  # Widget Page folder name.
+#  weight = 1  # Position of the link in the navigation bar.
+#  parent = "other"
+
+#[[main]]
+#  name = "Dissemination"  # Title of the link.
+#  url = "other/#dissemination"  # Widget Page folder name.
+#  weight = 2  # Position of the link in the navigation bar.
+#  parent = "other"
+
+#[[main]]
+#  name = "Random thoughts"  # Title of the link.
+#  url = "other/#random"  # Widget Page folder name.
+#  weight = 3  # Position of the link in the navigation bar.
+#  parent = "other"
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -9,7 +9,7 @@ authors:
 - Alessandro Lenci
 - Philippe Blache
 - Chu-Ren Huang
-date: 2019-07
+date: 2019-07-16T20:37:47+02:13
 doi: "https://doi.org/10.1017/S1351324919000214"
 
 # Schedule page publish date (NOT publication's date).

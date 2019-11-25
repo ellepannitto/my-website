@@ -6,7 +6,7 @@ authors:
 - admin
 - Lavinia Salicchi
 - Alessandro Lenci
-date: 2017-08
+date: 2017-08-16T20:37:47+02:00
 doi: "https://doi.org/10.4000/books.aaccademia.2437"
 
 # Schedule page publish date (NOT publication's date).

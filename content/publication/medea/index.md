@@ -5,7 +5,7 @@ title: "MEDEA: Merging Event knowledge and Distributional vEctor Addition"
 authors:
 - admin
 - Alessandro Lenci
-date: 2018-12
+date: 2018-12-16T20:37:47+03:10
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Rovereto"
   date_start = "2018-11-01"
   date_end = ""
-  description = ""
+  description = "Aggiungere descrizione"
 
 [[experience]]
   title = "Master in Digital Humanities - Language Technologies"
@@ -34,16 +34,7 @@ date_format = "Jan 2006"
   location = "Pisa"
   date_start = "2016-07-01"
   date_end = "2018-10-01"
-  description = """
-  * Summer/Winter Schools I've been to:
-  
-	- [TRIPLE Winter School 2017](https://triplelab.wordpress.com/programma/)
-	- [ESSLLI 2018](http://esslli2018.folli.info/)
-	
-  * Final thesis: _Event Knowledge in Compositional Distributional Semantics_  
-	Advisor: prof. [Alessandro Lenci](https://people.unipi.it/alessandro_lenci/)
- 
-  """
+  description = "Aggiungere descrizione"
   
 [[experience]]
   title = "Bachelor in Digital Humanities"
@@ -52,9 +43,6 @@ date_format = "Jan 2006"
   location = "Pisa"
   date_start = "2013-10-01"
   date_end = "2016-07-01"
-  description = """
-  * Final thesis: _LISA: a Light Italian Semantic Analyzer_  
-		Advisor: prof. [Alessandro Lenci](https://people.unipi.it/alessandro_lenci/), Co-advisor: dott. [Felice dell’Orletta](http://www.italianlp.it/people/felice-dellorletta/)
-  """
+  description = "Aggiungere descrizione"
 
 +++
