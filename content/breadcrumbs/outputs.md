@@ -51,6 +51,8 @@ subtitle = "Teensy-weensy traces I'm leaving"
 
 **14 Nov 2019**: I've been awarded the [_AILC Master Thesis Prize_](http://clic2019.di.uniba.it/masterTAward.html) and gave a presentation about my master thesis during CLiC-it, [[slides]](../files/slides_clic2019.pdf)
 
+**End of Year1@CIMeC**: A summary of what I've been looking at during first year can be found in a [report](../files/ML_for_NLP_report.pdf) I've written for the _Machine Learning for NLP_ course, a [report](../files/ethics.pdf) written for the _Ethics of Research in Neuroscience_ course and the final year [research report](../files/Year1Report.pdf) + [slides](../files/Year1Report_slides.pdf)
+
 **12 Dec 2018**: I presented our paper **MEDEA: Merging Event knowledge and Distributional vEctor Addition** at CLiC-it and it was shortlisted for _the Best paper award_, [[slides]](../files/MEDEA_slides.pdf)
 
 **11 Oct 2018**: I've graduted from master, [[slides]](../files/slides_master.pdf)
