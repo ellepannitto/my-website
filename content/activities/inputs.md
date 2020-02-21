@@ -8,12 +8,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Followed"
-subtitle = "Some of the places I've been to, people I've met, the series of breadcrumbs I followed to end up where I am"
+#title = "Followed"
+#subtitle = "Some of the places I've been to, people I've met, the series of breadcrumbs I followed to end up where I am"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -49,13 +49,23 @@ subtitle = "Some of the places I've been to, people I've met, the series of brea
 
 **20-22 Nov 2019**: I've been to [CONTEXT 2019](http://context19.disi.unitn.it/), in Trento
 
+**20 Nov 2019**: I gave a short presentation about my master thesis during the [Computational Linguistics](http://disi.unitn.it/~bernardi/Courses/CL/19-20.html) course taught by [Raffaella Bernardi](http://disi.unitn.it/~bernardi/), [[slides]](../files/slides_CL.pdf)
+
+**14 Nov 2019**: I've been awarded the [_AILC Master Thesis Prize_](http://clic2019.di.uniba.it/masterTAward.html) and gave a presentation about my master thesis during CLiC-it, [[slides]](../files/slides_clic2019.pdf)
+
 **13-15 Nov 2019**: I've been to [CLiC-it 2019](http://clic2019.di.uniba.it/),  the Sixth Italian Conference on Computational Linguistics, in Bari
+
+**End of Year1@CIMeC**: A summary of what I've been looking at during first year can be found in a [report](../files/ML_for_NLP_report.pdf) I've written for the _Machine Learning for NLP_ course, a [report](../files/ethics.pdf) written for the _Ethics of Research in Neuroscience_ course and the final year [research report](../files/Year1Report.pdf) + [slides](../files/Year1Report_slides.pdf)
 
 **2-4 May 2019**: I've been to [CAOs 2019](https://event.unitn.it/2019/cimec-caos/), in Rovereto
 
 **11-12 Feb 2019**: I've been to [Giornate SSSL 2019](Giornate di Studi Scientifici sul Linguaggio), in Rovereto
 
+**12 Dec 2018**: I presented our paper **MEDEA: Merging Event knowledge and Distributional vEctor Addition** at CLiC-it and it was shortlisted for _the Best paper award_, [[slides]](../files/MEDEA_slides.pdf)
+
 **10-12 Dec 2018**: I've been to [CLiC-it 2018](http://clic2018.di.unito.it/en/home-2/),  the Fifth Italian Conference on Computational Linguistics, in Torino
+
+**11 Oct 2018**: I've graduted from master, [[slides]](../files/slides_master.pdf)
 
 **6-17 Aug 2018**: I've been at the 30th edition of [ESSLLI](http://esslli2018.folli.info/) (European Summer School in Logic, Language and Information) in Sofia. Here's a list of the courses I took: 
 [Advanced Regression Methods for Linguistics](http://esslli2018.folli.info/advanced-regression-methods-for-linguistics/),
@@ -63,6 +73,8 @@ subtitle = "Some of the places I've been to, people I've met, the series of brea
 [Multiword Expressions in a Nutshell](http://esslli2018.folli.info/multiword-expressions-in-a-nutshell/),
 [Probabilistic Modeling and Bayesian Data Analysis in Experimental Semantics and Pragmatics](http://esslli2018.folli.info/probabilistic-modeling-and-bayesian-data-analysis/),
 [Word Vector Space Specialisation](http://esslli2018.folli.info/word-vector-space-specialisation/)
+
+**12 Dec 2017**: Lavinia presented our paper **AHyDA: Automatic Hypernym Detection with feature Augmentation** at CLiC-it and got the _Best paper award_, [[slides]](../files/AHyDA_slides.pdf)
 
 **11-13 Dec 2017**: I've been to [CLiC-it 2017](http://sag.art.uniroma2.it/clic2017/en/home-2/),  the Fourth Italian Conference on Computational Linguistics, in Rome
 

@@ -35,10 +35,10 @@
   parent="home"
   
 [[main]]
-  name = "Breadcrumbs"  # Title of the link.
-  url = "breadcrumbs/"  # Widget Page folder name.
+  name = "Activities"  # Title of the link.
+  url = "activities/"  # Widget Page folder name.
   weight = 16  # Position of the link in the navigation bar.
-  identifier = "breadcrumbs"
+  identifier = "activities"
 
 #[[main]]
 #  name = "Other"  # Title of the link.
