@@ -39,6 +39,7 @@
   url = "activities/"  # Widget Page folder name.
   weight = 16  # Position of the link in the navigation bar.
   identifier = "activities"
+  
 
 #[[main]]
 #  name = "Other"  # Title of the link.
