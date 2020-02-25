@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Personal (B)Log"
-subtitle = "My journey in academia is not being easy or smooth. As a matter of fact, it feels like a complete disaster most days. I've never been a fan of publicly talking about my feelings and myself, I've never really had a blog or anything. But one of the major issues I'm facing everyday is a feeling of complete loneliness. Hence this place: it is private, but not isolated. Opinions are my own."
+subtitle = "_My journey in academia is not being easy or smooth. As a matter of fact, it feels like a complete disaster most days. I've never been a fan of publicly talking about my feelings and myself, I've never really had a blog or anything. But one of the major issues I'm facing everyday is a feeling of complete loneliness. Hence this place: it is private, but not isolated. Opinions are my own. Also, yes, my English is bad._"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -46,3 +46,8 @@ subtitle = "My journey in academia is not being easy or smooth. As a matter of f
  # CSS class.
  css_class = ""
 +++
+
+_25feb2020_:
+I've just finished having a chat with my supervisor. We couldn't meet in person because of the collective coronavirus panic, so it has been a written chat.
+Now, these conversations have slowly become the most frustrating experiences of my life. It felt like starting from scratch again, and it always feels so.
+It's been more than one year now. Each time, I try to make a step outside of the little square I'm standing on, each time I believe in my plan of movement, each time it's not fine for some reason I don't get and we're speaking of things that seem so unrealted, to my issue and to one another. And then each time I'm back on the same square, each time I believe in myself a little less, each time I'm less and less sure about which direction is interesting, each time I feel like the only thing I'm able to do is to stay still on that tiny square. I'll maybe sit down, I'm starting to feel deeply uncomfortable here. I need to sit down.
