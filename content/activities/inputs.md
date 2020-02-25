@@ -57,9 +57,13 @@ weight = 1  # Order that this section will appear.
 
 **End of Year1@CIMeC**: A summary of what I've been looking at during first year can be found in a [report](../files/ML_for_NLP_report.pdf) I've written for the _Machine Learning for NLP_ course, a [report](../files/ethics.pdf) written for the _Ethics of Research in Neuroscience_ course and the final year [research report](../files/Year1Report.pdf) + [slides](../files/Year1Report_slides.pdf)
 
+**Aug 2019**: Reviewing for [CLiC-it 2019](http://clic2019.di.uniba.it/)
+
 **2-4 May 2019**: I've been to [CAOs 2019](https://event.unitn.it/2019/cimec-caos/), in Rovereto
 
 **11-12 Feb 2019**: I've been to [Giornate SSSL 2019](Giornate di Studi Scientifici sul Linguaggio), in Rovereto
+
+**Feb 2019**: reviewing for [IWCS 2019](https://sites.google.com/view/iwcs2019/home)
 
 **12 Dec 2018**: I presented our paper **MEDEA: Merging Event knowledge and Distributional vEctor Addition** at CLiC-it and it was shortlisted for _the Best paper award_, [[slides]](../files/MEDEA_slides.pdf)
 
