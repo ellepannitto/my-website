@@ -50,6 +50,8 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
 _26feb2020_:
 I am reading (yet another) paper on innateness. _Ex nihilo, nihil fit_, it says. Seems like a perfect description of my life lately. Maybe it's all part of the innatists plan to make me a little more innatist.
 
+After lunch, I'm still just crying in front of my laptop with no progress done. I feel like I should drop out of PhD and go take a flight to India tomorrow morning, spend three months with buddhist monks in a complete eat-pray-and-love fashion. Why am I not brave enough to hand in that stupid dropout form?
+
 _25feb2020_:
 I've just finished having a chat with my supervisor. We couldn't meet in person because of the collective coronavirus panic, so it has been a written chat.
 Now, these conversations have slowly become the most frustrating experiences of my life. It felt like starting from scratch again, and it always feels so.
