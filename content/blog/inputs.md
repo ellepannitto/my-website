@@ -52,6 +52,9 @@ I am reading (yet another) paper on innateness. _Ex nihilo, nihil fit_, it says.
 
 After lunch, I'm still just crying in front of my laptop with no progress done. I feel like I should drop out of PhD and go take a flight to India tomorrow morning, spend three months with buddhist monks in a complete eat-pray-and-love fashion. Why am I not brave enough to hand in that stupid dropout form?
 
+Before dinner, I went out to get an ice-cream because the situation was getting out of hand and I needed a break. And hey, it kind of worked.
+Then, Lucio was called on the phone, he's going back to Pisa in two weeks. I've known it for months now, but it's so hard to think of a new routine in this place, it's already been to hard to get this one running.
+
 _25feb2020_:
 I've just finished having a chat with my supervisor. We couldn't meet in person because of the collective coronavirus panic, so it has been a written chat.
 Now, these conversations have slowly become the most frustrating experiences of my life. It felt like starting from scratch again, and it always feels so.
