@@ -47,6 +47,10 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
  css_class = ""
 +++
 
+_28feb2020_:
+Yesterday I had a couple of hours of concetration. It was nice, I got an idea. It will probably be useless and full of flaws, but it's been nice to be able to think.
+Today I've woken up crying. It's been nice, but it feels so far away.
+
 _26feb2020_:
 I am reading (yet another) paper on innateness. _Ex nihilo, nihil fit_, it says. Seems like a perfect description of my life lately. Maybe it's all part of the innatists plan to make me a little more innatist.
 

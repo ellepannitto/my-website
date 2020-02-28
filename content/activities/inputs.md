@@ -47,6 +47,8 @@ weight = 1  # Order that this section will appear.
  css_class = ""
 +++
 
+**Mar 2020**: Reviewing for [LiNCR 2020](https://lincr2020.github.io/)
+
 **20-22 Nov 2019**: I've been to [CONTEXT 2019](http://context19.disi.unitn.it/), in Trento
 
 **20 Nov 2019**: I gave a short presentation about my master thesis during the [Computational Linguistics](http://disi.unitn.it/~bernardi/Courses/CL/19-20.html) course taught by [Raffaella Bernardi](http://disi.unitn.it/~bernardi/), [[slides]](../files/slides_CL.pdf)
