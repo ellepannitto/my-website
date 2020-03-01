@@ -47,6 +47,9 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
  css_class = ""
 +++
 
+_01mar2020_:
+It is sunday and it is raining in Rovereto. I am working and looking out of my window, and I feel like I'm working out of guilt, when I should definitely be working out of joy.
+
 _28feb2020_:
 Yesterday I had a couple of hours of concetration. It was nice, I got an idea. It will probably be useless and full of flaws, but it's been nice to be able to think.
 Today I've woken up crying. It's been nice, but it feels so far away.
