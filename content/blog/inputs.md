@@ -46,6 +46,10 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
  # CSS class.
  css_class = ""
 +++
+_02mar2020_:
+I got an email from my department today, advertising free weekly tango lessons to take place inside the main building. Surely, it will be for research purposes, surely there will be plenty of reasons for offering these classes but, I quote, "Classes will be [...] reserved for UniTN staff and students". Has the writer thought about this sentence? Was there really no possibility to include the community?
+There are loads of things that I don't get or agree on, speaking about managing a university, but this one really bugs me. And it happens here in Rovereto much more often than it used to happen in Pisa. And people seem to be completely ok with it. 
+It splits the community, it bites up a piece of your personal life without giving you the possibility of sharing it with someone else, reinforcing that fake idea of friendship and relationships that we have in academia. I don't want the university to be "mine", I don't want to be inside if someone ends up being on the outside, whatever the reason.
 
 _01mar2020_:
 It is sunday and it is raining in Rovereto. I am working and looking out of my window, and I feel like I'm working out of guilt, when I should definitely be working out of joy.
