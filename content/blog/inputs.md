@@ -47,6 +47,10 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
  css_class = ""
 +++
 _03mar2020_:
+I went to lesson today, there's this course, about innatism, I've been asked to follow. And it's actually probably a good thing, so that I can make my arguments about innatism a little more systematic. The thing is, there's a moodle plaform for the course, for materials and announcements... and I discovered today that we, phd students, cannot access these pages by default, I had to specifically ask the administration to grant me access. Yet another reason to why this place is disgusting, PhD students are not really considered students, access to resources is not a priority, they keep talking about how cool it is to be so multidisciplinary, and then things are mostly closed most of the times. I feel so super ashamed of be part of this place.
+
+After lunch, Lucio asked me: "Do you want me to stay here in Rovereto?". I learned to realize how paradoxical is my stay here. I couldn't say yes, how can I prevent him from living his life, that's the least of the things I want. I couldn't say no, should I lie about the fact that I want to build a stability together somewhere, plan the next 10 years rather than the next 3 weeks, think about how life will be like?
+
 Today I'm completely freezed again. Now I know that Lucio is leaving in 8 days, and I totally can't see the reason to be here, nor the reasons to go back. I feel like Mindy St. Claire, I should start behaving like her.
 
 _02mar2020_:
