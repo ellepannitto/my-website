@@ -46,12 +46,16 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
  # CSS class.
  css_class = ""
 +++
+_09mar2020_:
+Today is definitely a bad day. I've been in a bad mood since this morning. Might be because Lucio is about to leave. Or because I really really hate coding neural networks.
+In the afternoon my supervisor wrote to me, saying that I can now to work from home for the coronavirus situation in Italy. But what does it mean? Am I supposed to be in the office otherwise? I spend most of my time home, and I like it this way. I don't need more psychological pressure.
+
 _03mar2020_:
-I went to lesson today, there's this course, about innatism, I've been asked to follow. And it's actually probably a good thing, so that I can make my arguments about innatism a little more systematic. The thing is, there's a moodle plaform for the course, for materials and announcements... and I discovered today that we, phd students, cannot access these pages by default, I had to specifically ask the administration to grant me access. Yet another reason to why this place is disgusting, PhD students are not really considered students, access to resources is not a priority, they keep talking about how cool it is to be so multidisciplinary, and then things are mostly closed most of the times. I feel so super ashamed of be part of this place.
+Today I'm completely freezed again. Now I know that Lucio is leaving in 8 days, and I totally can't see the reason to be here, nor the reasons to go back. I feel like Mindy St. Claire, I should start behaving like her.
 
 After lunch, Lucio asked me: "Do you want me to stay here in Rovereto?". I learned to realize how paradoxical is my stay here. I couldn't say yes, how can I prevent him from living his life, that's the least of the things I want. I couldn't say no, should I lie about the fact that I want to build a stability together somewhere, plan the next 10 years rather than the next 3 weeks, think about how life will be like?
 
-Today I'm completely freezed again. Now I know that Lucio is leaving in 8 days, and I totally can't see the reason to be here, nor the reasons to go back. I feel like Mindy St. Claire, I should start behaving like her.
+I went to lesson today, there's this course, about innatism, I've been asked to follow. And it's actually probably a good thing, so that I can make my arguments about innatism a little more systematic. The thing is, there's a moodle plaform for the course, for materials and announcements... and I discovered today that we, phd students, cannot access these pages by default, I had to specifically ask the administration to grant me access. Yet another reason to why this place is disgusting, PhD students are not really considered students, access to resources is not a priority, they keep talking about how cool it is to be so multidisciplinary, and then things are mostly closed most of the times. I feel so super ashamed of be part of this place.
 
 _02mar2020_:
 I got an email from my department today, advertising free weekly tango lessons to take place inside the main building. Surely, it will be for research purposes, surely there will be plenty of reasons for offering these classes but, I quote, "Classes will be [...] reserved for UniTN staff and students". Has the writer thought about this sentence? Was there really no possibility to include the community?
