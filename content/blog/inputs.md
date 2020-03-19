@@ -49,6 +49,8 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
 _19mar2020_:
 Our quarantine is going on. It's starting to feel very hard to bear. I cook a lot, tidy up, feel mainly depressed. And trying to make the most out of this time. I should be coding, but I just don't feel like it. And the university is acting really cold, and slow. I'd so much love to be somewhere else.
 
+After dinner, dad's day is almost over, I feel guilty. I haven't even bought a gift, this year, for the covid situation. But I baked some croissants. Also, I got an email about an upcoming conference (who cares about conferences in this moment anyway) and I realized I haven't been invited to review, while some of my friends are there. This shouldn't affect me but somehow I feel touched. I know I'm not enough, I can't wait to be out of this world. The croissants were good, maybe they'll bring me somewhere safer.
+
 _09mar2020_:
 Today is definitely a bad day. I've been in a bad mood since this morning. Might be because Lucio is about to leave. Or because I really really hate coding neural networks.
 In the afternoon my supervisor wrote to me, saying that I can now to work from home for the coronavirus situation in Italy. But what does it mean? Am I supposed to be in the office otherwise? I spend most of my time home, and I like it this way. I don't need more psychological pressure.
