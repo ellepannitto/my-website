@@ -46,6 +46,13 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
  # CSS class.
  css_class = ""
 +++
+_25mar2020_:
+Highlights from the day: 
+* in a few hours it's Lucio's birthday. I'm so sorry he has to spend the day in quarantine. I guess he'd rather be with someone else, in some other place. I'm sorry he's stuck here with me
+* we got a paper at a workshop where no one wants to go and we don't even know if it will be held at the moment. Other papers from my ""group"" have been accepted, but they apparently don't know mine is there too.
+* I've been asked to write the code for my master thesis again, but it takes time and I guess they won't be happy if I spend time this way. Actually, I'd like to spend time on useful and interesting things, like writing some even small code to help in the coronavirus situation, or go out and go shopping for those who can't. But I feel so extremely guilty because I should be working instead as if nothing is happening. That makes me sick.
+* I should keep in mind to turn on discord in the morning. At least some friendly faces are there, and give me some sort of reason to keep working.
+
 _19mar2020_:
 Our quarantine is going on. It's starting to feel very hard to bear. I cook a lot, tidy up, feel mainly depressed. And trying to make the most out of this time. I should be coding, but I just don't feel like it. And the university is acting really cold, and slow. I'd so much love to be somewhere else.
 
