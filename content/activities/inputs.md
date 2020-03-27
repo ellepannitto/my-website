@@ -46,6 +46,7 @@ weight = 1  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
+**26 Apr 2020 - Year2@CIMeC**: I gave a short _online_ [presentation](../files/Year2thesisproposal.pdf) about the progress of my work here.
 
 **Mar 2020**: Reviewing for [LiNCR 2020](https://lincr2020.github.io/)
 
