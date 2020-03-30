@@ -46,6 +46,9 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
  # CSS class.
  css_class = ""
 +++
+_30mar2020_:
+Yesterday it has been one of the most awul days ever. My own issues absorbed me for the whole day, then I started thinking: I haven't received basically any word from the director of our PhD. The only email is from two weeks ago and it was a very informal one. I myself am kilometers from home, but I am one of the luckiest persons, being in my own country with my normal life going on, however virtually, besides the PhD. I feel sorry for my colleagues, who are thousands of kilometers away from their families, time zones apart. It's all so prosaic but I wonder whether a more personal, warm email could have made us feel home, maybe more than organizing pointless christmas parties.
+
 _25mar2020_:
 Highlights from the day: 
 * in a few hours it's Lucio's birthday. I'm so sorry he has to spend the day in quarantine. I guess he'd rather be with someone else, in some other place. I'm sorry he's stuck here with me
