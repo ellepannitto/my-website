@@ -46,6 +46,9 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
  # CSS class.
  css_class = ""
 +++
+_02apr2020_:
+The thruth is, I genuinely don't like my project. I don't like coding neural nets, they make me anxious and make me feel helpless in front of complicated and obscure frameworks. A terrible stomachache gets me each time I open the damn terminal, the same I got when they asked me to reharse a performance I didn't want to do. And also, I don't see why I'm doing it, it looks like a convoluted thought exercise that no one will ever care about. I can't wait to drop out of this nightmare.
+
 _30mar2020_:
 Yesterday it has been one of the most awul days ever. My own issues absorbed me for the whole day, then I started thinking: I haven't received basically any word from the director of our PhD. The only email is from two weeks ago and it was a very informal one. I myself am kilometers from home, but I am one of the luckiest persons, being in my own country with my normal life going on, however virtually, besides the PhD. I feel sorry for my colleagues, who are thousands of kilometers away from their families, time zones apart. It's all so prosaic but I wonder whether a more personal, warm email could have made us feel home, maybe more than organizing pointless christmas parties.
 
