@@ -46,6 +46,10 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
  # CSS class.
  css_class = ""
 +++
+_23apr2020_:
+Highligh of the one-by-last lesson of the famous cose: "There's some religion going here". Of course, the other theory always seems religion.
+And of course, this university "doesn't like" students taking exams just for personal enhancement, without study plans and papers signed. What an awful awful place I'm in.
+
 _02apr2020_:
 The thruth is, I genuinely don't like my project. I don't like coding neural nets, they make me anxious and make me feel helpless in front of complicated and obscure frameworks. A terrible stomachache gets me each time I open the damn terminal, the same I got when they asked me to reharse a performance I didn't want to do. And also, I don't see why I'm doing it, it looks like a convoluted thought exercise that no one will ever care about. I can't wait to drop out of this nightmare.
 
