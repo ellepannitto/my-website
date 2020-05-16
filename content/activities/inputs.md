@@ -46,6 +46,8 @@ weight = 1  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
+**16 May 2020**: LREC proceedings are out and so is our [paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.700.pdf). The [code](https://github.com/ellepannitto/tfe) is also available.
+
 **26 Apr 2020 - Year2@CIMeC**: I gave a short _online_ [presentation](../files/Year2thesisproposal.pdf) about the progress of my work here.
 
 **Mar 2020**: Reviewing for [LiNCR 2020](https://lincr2020.github.io/)
