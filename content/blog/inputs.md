@@ -46,6 +46,9 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
  # CSS class.
  css_class = ""
 +++
+_4Jun2020_:
+So, today my department has decided to have an online seminar. The whole word in sharing links and improving access to talks and resources in any possibile way. And yet, here at cimec, we have a sort of complex identification procedure to be able to listen to the talk. Privacy, recording, I honestly don't know what the reason is, but whatever the reason it seems totally unreasonable to deliberately make it difficult to participate, to restrict knowledge to the elite. I hate this place every day a bit more.
+
 _23apr2020_:
 Highligh of the one-by-last lesson of the famous cose: "There's some religion going here". Of course, the other theory always seems religion.
 And of course, this university "doesn't like" students taking exams just for personal enhancement, without study plans and papers signed. What an awful awful place I'm in.
