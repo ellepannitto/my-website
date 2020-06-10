@@ -40,6 +40,12 @@
   weight = 16  # Position of the link in the navigation bar.
   identifier = "activities"
   
+[[main]]
+  name = "About Language"
+  url = "about/"
+  weight = 20
+  identifier = "about_language"
+  
 
 #[[main]]
 #  name = "Other"  # Title of the link.
