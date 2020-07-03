@@ -46,6 +46,8 @@ weight = 1  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
+**3 Jul 2020**: Along with [Malvina Nissim](https://malvinanissim.github.io/), I wrote a dissemination [article](https://www.linguisticamente.org/ma-un-computer-mi-capisce-cose-e-a-cosa-serve-la-linguistica-computazionale/) about what is Computational Linguistics. The piece is in italian, hosted on a website created by Nicola Grandi, Nicole Marinaro, Francesca Masini e Alex Piovan.
+
 **18 May 2020**: Along with [Alessandro Lenci](https://people.unipi.it/alessandro_lenci/), I gave a short [presentation](../files/GeCKo_sdm.pdf) during the _online_ [GeCKo workshop](https://sites.google.com/view/gecko2020/home)
 
 **16 May 2020**: LREC proceedings are out and so is our [paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.700.pdf). The [code](https://github.com/ellepannitto/tfe) is also available.
