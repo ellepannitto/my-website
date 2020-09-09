@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Left behind"
-subtitle = "Teensy-weensy traces I'm leaving"
+title = "Why Linguistics?"
+subtitle = "_A repository of papers that inspired me during the years._"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,14 +47,6 @@ subtitle = "Teensy-weensy traces I'm leaving"
  css_class = ""
 +++
 
-**20 Nov 2019**: I gave a short presentation about my master thesis during the [Computational Linguistics](http://disi.unitn.it/~bernardi/Courses/CL/19-20.html) course taught by [Raffaella Bernardi](http://disi.unitn.it/~bernardi/), [[slides]](../files/slides_CL.pdf)
+* McClelland, J. L. (1992). Can connectionist models discover the structure of natural language. _Minds, Brains and Computers_, 168-189 [**[pdf]**](https://stanford.edu/~jlmcc/papers/McClelland92.pdf)
 
-**14 Nov 2019**: I've been awarded the [_AILC Master Thesis Prize_](http://clic2019.di.uniba.it/masterTAward.html) and gave a presentation about my master thesis during CLiC-it, [[slides]](../files/slides_clic2019.pdf)
-
-**End of Year1@CIMeC**: A summary of what I've been looking at during first year can be found in a [report](../files/ML_for_NLP_report.pdf) I've written for the _Machine Learning for NLP_ course, a [report](../files/ethics.pdf) written for the _Ethics of Research in Neuroscience_ course and the final year [research report](../files/Year1Report.pdf) + [slides](../files/Year1Report_slides.pdf)
-
-**12 Dec 2018**: I presented our paper **MEDEA: Merging Event knowledge and Distributional vEctor Addition** at CLiC-it and it was shortlisted for _the Best paper award_, [[slides]](../files/MEDEA_slides.pdf)
-
-**11 Oct 2018**: I've graduted from master, [[slides]](../files/slides_master.pdf)
-
-**12 Dec 2017**: Lavinia presented our paper **AHyDA: Automatic Hypernym Detection with feature Augmentation** at CLiC-it and got the _Best paper award_, [[slides]](../files/AHyDA_slides.pdf)
+* Elman, J. L. (2009). On the meaning of words and dinosaur bones: Lexical knowledge without a lexicon. _Cognitive science_, 33(4), 547-582. [**[pdf]**](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1551-6709.2009.01023.x)

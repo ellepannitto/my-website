@@ -8,12 +8,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Language as I see it"
-subtitle = "_This is just a repository of quotes or thoughts about language, as I see it._"
+title = "Why Language?"
+subtitle = "_A repository of quotes or thoughts._"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.

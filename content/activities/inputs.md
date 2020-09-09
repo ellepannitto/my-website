@@ -62,7 +62,7 @@ weight = 1  # Order that this section will appear.
 
 **20 Nov 2019**: I gave a short presentation about my master thesis during the [Computational Linguistics](http://disi.unitn.it/~bernardi/Courses/CL/19-20.html) course taught by [Raffaella Bernardi](http://disi.unitn.it/~bernardi/), [[slides]](../files/slides_CL.pdf)
 
-**14 Nov 2019**: I've been awarded the [_AILC Master Thesis Prize_](http://clic2019.di.uniba.it/masterTAward.html) and gave a presentation about my master thesis during CLiC-it, [[slides]](../files/slides_clic2019.pdf)
+**14 Nov 2019**: I've been awarded the [_AILC Master Thesis Prize_](http://www.ai-lc.it/premi/best-master-thesis-emanuele-pianta/) and gave a presentation about my master thesis during CLiC-it, [[slides]](../files/slides_clic2019.pdf)
 
 **13-15 Nov 2019**: I've been to [CLiC-it 2019](http://clic2019.di.uniba.it/),  the Sixth Italian Conference on Computational Linguistics, in Bari
 
