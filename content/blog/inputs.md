@@ -46,6 +46,9 @@ subtitle = "_My journey in academia is not being easy or smooth. As a matter of 
  # CSS class.
  css_class = ""
 +++
+_24Sep2020_:
+Today I came across an old email, where my first supervisor is saying amazing things about me. Amazing words I definitely didn't deserve at the time, and that now definitely seem coming out from a long sealed closet.
+
 _10Jun2020_:
 Things I've discovered today: our canteen is not accepting student cards anymore. Things that could happen only at university of trento, I believe.
 
