@@ -46,6 +46,8 @@ weight = 1  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
+**Oct 2020**: Reviewing for [DANKMEMES2020](https://dankmemes2020.fileli.unipi.it/)
+
 **Aug 2020**: Reviewing for [COLING2020](https://coling2020.org/)
 
 **3 Jul 2020**: Along with [Malvina Nissim](https://malvinanissim.github.io/), I wrote a dissemination [article](https://www.linguisticamente.org/ma-un-computer-mi-capisce-cose-e-a-cosa-serve-la-linguistica-computazionale/) about what is Computational Linguistics. The piece is in italian, hosted on a website created by Nicola Grandi, Nicole Marinaro, Francesca Masini e Alex Piovan.

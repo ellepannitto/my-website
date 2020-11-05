@@ -46,6 +46,12 @@
   weight = 20
   identifier = "about_language"
   
+[[main]]
+  name = "Disseminarion"
+  url = "dissemination/"
+  weight = 21
+  identifier = "dissemination"
+  
 
 #[[main]]
 #  name = "Other"  # Title of the link.
