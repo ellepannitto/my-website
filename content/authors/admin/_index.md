@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cimec.unitn.it/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a second year PhD student in Computational Semantics at the CLIC (Language, Interaction and Computation) Laboratory at CIMeC.
+bio: I'm a third year PhD student in Computational Semantics at the CLIC (Language, Interaction and Computation) Laboratory at CIMeC.
 
 #interests: []
 
