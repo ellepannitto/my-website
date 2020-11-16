@@ -38,7 +38,7 @@ featured: true
 
 url_pdf: https://www.aclweb.org/anthology/2020.conll-1.13.pdf
 url_code:
-url_dataset: https://osf.io/r25at/?view_only=77afc9a31e424f819f4e3e6ea73a2f7f
+url_dataset: https://osf.io/r25at/?view_only=c6c8c2bb8f824cf8a76e7e04fb9f47f8
 url_poster:
 url_project:
 url_slides: files/slides_CoNLL2020.pdf 
