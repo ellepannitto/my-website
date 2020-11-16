@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Recurrentbabbling"
+title: "Recurrent babbling: evaluating the acquisition of grammar from limited input data"
 authors: [Ludovica Pannitto, Aurélie Herbelot]
 date: 2020-10-12T15:15:59+02:00
 doi: ""
@@ -13,7 +13,7 @@ publishDate: 2020-10-12T15:15:59+02:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Conference on Computational Natural Language Learning 2020"
@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2010.04637.pdf
+url_pdf: https://www.aclweb.org/anthology/2020.conll-1.13.pdf
 url_code:
-url_dataset:
+url_dataset: https://osf.io/r25at/?view_only=77afc9a31e424f819f4e3e6ea73a2f7f
 url_poster:
 url_project:
-url_slides:
+url_slides: files/slides_CoNLL2020.pdf 
 url_source:
-url_video:
+url_video: https://slideslive.com/38939475/recurrent-babbling-evaluating-the-acquisition-of-grammar-from-limited-input-data
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
