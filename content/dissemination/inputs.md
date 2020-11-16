@@ -11,8 +11,7 @@ weight = 1  # Order that this section will appear.
 #title = "Followed"
 subtitle = """I am actively involved in dissemination activities, mainly concerning Computational Linguistics (most of the materials are in Italian).
 Feel free to get in touch with me, for clarifications, suggestions, or just a chat about the world of science dissemination in general.
-
-Most of the activities are organized in collabolation with [**AILC**](http://www.ai-lc.it/), the Italian Association for Computational Linguistics."""
+"""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,21 +49,17 @@ Most of the activities are organized in collabolation with [**AILC**](http://www
  css_class = ""
 +++
 
-**2020**:
 
-- Penne Amiche della Scienza
-
-- Laboratorio al Buzzi
-
-- Bright
-
-- Festival della Scienza Genova
-
-- Articolo per LinguisticaMente
-
-- SISSA Student Day
+- In collaborazione con [**AILC** (Associazione Italiana di Linguistica Computazionale)](http://www.ai-lc.it/), sotto la supervisione di [Malvina Nissim](https://malvinanissim.github.io/), abbiamo progettato nel 2019 un laboratorio didattico di linguistica computazionale, che abbiamo poi proposto in varie occasioni a partecipanti di diverse fasce d'età. Hanno partecipato alla progettazione e alla realizzazione: Lucia Busso, Roberta Combei, Mirko Lai, Lucio Messina, Alessio Miaschi, Gabriele Sarti.
+	- [**Bergamo Scienza 2019**](https://www.bergamoscienza.it/): abbiamo presentato il Laboratorio [Non dire málvísindi se non l'hai nel sacco](https://festival.bergamoscienza.it/it/calendario/53605/non-dire-m-lv-sindi-se-non-l-hai-nel-sacco?fbclid=IwAR1ULbVscgBjo0_qdO1HbVJMMLMEsnteJNwINNHbJw4IeFMqv4n5UFWdfGQ), della durata di 90' per studentesse e studenti dai 13 anni in su. Un resoconto del laboratorio è stato presentato a [CLiC-it 2019](https://docs.google.com/presentation/d/1BdI4O2joVz_egEzoTHpLjsSCRKZCPD_mFihHmMK9QgI/edit?usp=sharing)
+	- Una presentazione interattiva basata sul laboratorio è stata presentata da Gabriele al [SISSA Student Day 2020](https://www.sissa.it/it/calendar-event/student-day-2020): un evento di orientamento per studentesse e studenti degli ultimi anni di scuola superiore
+	- [**Festival della Scienza 2020**](http://www.festivalscienza.it/site/home.html): Lucio ha animato per AILC il Laboratorio [Il linguaggio di Siri](http://www.festivalscienza.it/site/home/programma-scuole/il-linguaggio-di-siri.html), della durata di 45' per studentesse e studenti della scuola superiore.
 
 
-**2019**: 
+- Con [Malvina Nissim](https://malvinanissim.github.io/), abbiamo scritto un [articolo divulgativo](https://www.linguisticamente.org/ma-un-computer-mi-capisce-cose-e-a-cosa-serve-la-linguistica-computazionale/) su cosa sia la Linguistica Computazionale, per il sito [Linguisticamente](https://www.linguisticamente.org/) creato da Nicola Grandi, Nicole Marinaro, Francesca Masini e Alex Piovan. E c'è una sorpresa in arrivo!
 
-- Bergamo Scienza + CLiC-it
+
+- Sto partecipando all'edizione 2020-2021 di [Penne Amiche della Scienza](https://sites.google.com/view/penne-amiche-della-scienza/home?authuser=0)
+
+
+

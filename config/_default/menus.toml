@@ -47,7 +47,7 @@
   identifier = "about_language"
   
 [[main]]
-  name = "Disseminarion"
+  name = "Dissemination"
   url = "dissemination/"
   weight = 21
   identifier = "dissemination"
