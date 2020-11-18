@@ -59,7 +59,8 @@ Feel free to get in touch with me, for clarifications, suggestions, or just a ch
 - Con [Malvina Nissim](https://malvinanissim.github.io/), abbiamo scritto un [articolo divulgativo](https://www.linguisticamente.org/ma-un-computer-mi-capisce-cose-e-a-cosa-serve-la-linguistica-computazionale/) su cosa sia la Linguistica Computazionale, per il sito [Linguisticamente](https://www.linguisticamente.org/) creato da Nicola Grandi, Nicole Marinaro, Francesca Masini e Alex Piovan. E c'è una sorpresa in arrivo!
 
 
-- Sto partecipando all'edizione 2020-2021 di [Penne Amiche della Scienza](https://sites.google.com/view/penne-amiche-della-scienza/home?authuser=0)
+- Sto partecipando all'edizione 2020-2021 di [Penne Amiche della Scienza](https://sites.google.com/view/penne-amiche-della-scienza/home?authuser=0):
+	- Ho inviato la mia prima [lettera](files/Novembre.pdf) alla classe! 
 
 
 
