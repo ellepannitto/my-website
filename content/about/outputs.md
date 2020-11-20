@@ -50,3 +50,5 @@ subtitle = "_A repository of papers that inspired me during the years._"
 * McClelland, J. L. (1992). Can connectionist models discover the structure of natural language. _Minds, Brains and Computers_, 168-189 [**[pdf]**](https://stanford.edu/~jlmcc/papers/McClelland92.pdf)
 
 * Elman, J. L. (2009). On the meaning of words and dinosaur bones: Lexical knowledge without a lexicon. _Cognitive science_, 33(4), 547-582. [**[pdf]**](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1551-6709.2009.01023.x)
+
+* MasakhaneNLP (2020). Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages [**[pdf]**](https://www.aclweb.org/anthology/2020.findings-emnlp.195.pdf) [**[video]**](https://slideslive.com/38940745)
