@@ -50,3 +50,5 @@ subtitle = "_A repository of quotes or thoughts._"
 * "Language must speak for itself", Joseph Kosuth, 1991, [work of art](https://www.moma.org/collection/works/81828)
 
 * "The word in language is half someone else’s. It becomes one’s _own_ only when the speaker populates it with his own intentions, his own accent, when he appropriates the word, adapting it to his own semantic and expressive intention.", Mikhail Bakhtin
+
+* "Analyzing the relation between language and thought is a bit like trying embrace a cloud. It is hard to know if you are dealing with reality or illusion, and if the former is assumed, it is hard to know if you have discovered something significant or are merely putting into words something that is already perfectly obvious to everyone" - Langacker, R. W. (1976). Semantic representations and the linguistic relativity hypothesis. Foundations of language, 307-357.
