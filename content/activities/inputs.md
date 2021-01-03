@@ -46,6 +46,10 @@ weight = 1  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
+**Jan 2021**: Reviewing for [EACL 2021 - SRW](https://sites.google.com/view/eaclsrw2021/home)
+
+**Dec 2020 - Jan 2021**: I'm co-organizing the 2021 CIMeC Doctoral Student Day
+
 **16-20 Nov 2020**: EMNLP and CoNLL are happening this week! During CoNLL session 5 on Friday 20th I'll be available to answer questions and have a chat about our paper [Recurrent babbling: evaluating the acquisition of grammar from limited input data](https://www.aclweb.org/anthology/2020.conll-1.13.pdf) 
 
 **Oct 2020**: Reviewing for [DANKMEMES2020](https://dankmemes2020.fileli.unipi.it/)
