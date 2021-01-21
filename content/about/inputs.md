@@ -52,3 +52,5 @@ subtitle = "_A repository of quotes or thoughts._"
 * "The word in language is half someone else’s. It becomes one’s _own_ only when the speaker populates it with his own intentions, his own accent, when he appropriates the word, adapting it to his own semantic and expressive intention.", Mikhail Bakhtin
 
 * "Analyzing the relation between language and thought is a bit like trying embrace a cloud. It is hard to know if you are dealing with reality or illusion, and if the former is assumed, it is hard to know if you have discovered something significant or are merely putting into words something that is already perfectly obvious to everyone" - Langacker, R. W. (1976). Semantic representations and the linguistic relativity hypothesis. Foundations of language, 307-357.
+
+* "Grammar is bricolage" - Koenig, J., & Michelson, K. (2020). Specialized-domain grammars and the architecture of grammars: Possession in Oneida. Journal of Linguistics, 1-40., via Goldberg, A. E., & Herbst, T. (2021). The nice-of-you construction and its fragments, Linguistics, 59(1)
