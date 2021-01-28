@@ -48,7 +48,9 @@ weight = 1  # Order that this section will appear.
 +++
 **Jan 2021**: Reviewing for [EACL 2021 - SRW](https://sites.google.com/view/eaclsrw2021/home)
 
-**Dec 2020 - Jan 2021**: I'm co-organizing the 2021 CIMeC Doctoral Student Day
+**18 Dec 2020**: I've presented the current state of my PhD work at CIMeC's BrownBag Meetings. Here are the [slides](../files/BB_presentation_recbabbling.pdf) I used during the presentation.
+
+**Dec 2020 - Jan 2021**: I'm co-organizing the 2021 CIMeC Doctoral Student Day. [**flyer**](../files/schedule_dsday.pdf)
 
 **16-20 Nov 2020**: EMNLP and CoNLL are happening this week! During CoNLL session 5 on Friday 20th I'll be available to answer questions and have a chat about our paper [Recurrent babbling: evaluating the acquisition of grammar from limited input data](https://www.aclweb.org/anthology/2020.conll-1.13.pdf) 
 
