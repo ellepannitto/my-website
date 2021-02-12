@@ -72,4 +72,4 @@ My research fields are Computational Semantics and Natural Language Processing.
 
 Everything in life is a _work-in-progress_, this place especially.
 
-
+I am actively looking for a way out of academia or at the very least far from University of Trento, effective as soon as possible. Should you have any suggestion, please consider dropping me an email. I'll be forever grateful.
