@@ -54,3 +54,5 @@ subtitle = "_A repository of quotes or thoughts._"
 * "Analyzing the relation between language and thought is a bit like trying embrace a cloud. It is hard to know if you are dealing with reality or illusion, and if the former is assumed, it is hard to know if you have discovered something significant or are merely putting into words something that is already perfectly obvious to everyone" - Langacker, R. W. (1976). Semantic representations and the linguistic relativity hypothesis. Foundations of language, 307-357.
 
 * "Grammar is bricolage" - Koenig, J., & Michelson, K. (2020). Specialized-domain grammars and the architecture of grammars: Possession in Oneida. Journal of Linguistics, 1-40., via Goldberg, A. E., & Herbst, T. (2021). The nice-of-you construction and its fragments, Linguistics, 59(1)
+
+* "La scuola tradizionale ha insegnato come si deve dire una cosa. La scuola democratica insegnerà come si può dire una cosa, in quale fantastico infinito universo di modi distinti di comunicare noi siamo proiettati nel momento in cui abbiamo da risolvere il problema di dire una cosa" - Tullio De Mauro, Scuola e linguaggio. Roma: Editori Riuniti, 1981
