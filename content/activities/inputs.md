@@ -46,7 +46,9 @@ weight = 1  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
-**Mar 2021**: Reviewing for [IWCS 2021](https://iwcs2021.github.io/)
+**23 Mar 2021 - Year3@CIMeC**: I gave a short _online_ [presentation](../files/Year3thesisproposal.pdf) about the progress of my work here.
+
+**Mar 2021**: Reviewing for [IWCS 2021](https://iwcs2021.github.io/) and [CMCL 2021](https://cmclorg.github.io/)
 
 **Jan 2021**: Reviewing for [EACL 2021 - SRW](https://sites.google.com/view/eaclsrw2021/home)
 
