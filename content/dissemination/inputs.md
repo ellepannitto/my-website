@@ -56,7 +56,9 @@ Feel free to get in touch with me, for clarifications, suggestions, or just a ch
 	- [**Festival della Scienza 2020**](http://www.festivalscienza.it/site/home.html): Lucio ha animato per AILC il Laboratorio [Il linguaggio di Siri](http://www.festivalscienza.it/site/home/programma-scuole/il-linguaggio-di-siri.html), della durata di 45' per studentesse e studenti della scuola superiore.
 	- Una versione online del laboratorio è stata seguita dai ragazzi dell'[Istituto Tullio Buzzi di Prato](https://www.tulliobuzzi.edu.it/) nell'ambito dei progetti di alternanza scuola-lavoro. [**slides**](https://bit.ly/ailc-buzzi)
 	- In collaborazione con [Coling Lab (Laboratorio di Linguistica Computazionale dell'Università di Pisa)](http://colinglab.humnet.unipi.it/) e [ILC-CNR (Istituto di Linguistica Computazionale "Antonio Zampolli")](http://www.ilc.cnr.it/), il laboratorio è stato presentato a [**Bright-Night 2020**](https://www.bright-night.it/ehi-siri-che-cose-la-linguistica-computazionale/). [**slides**](https://bit.ly/ailc-bright)
-
+	- La nostra attività partecipa alla seconda edizione di [Science Web Festival](https://www.sciencewebfestival.it/)
+	- Abbiamo l'occasione di parlare della nostra esprienza a [LingComm21](https://lingcomm.org/conference/): presenteremo un poster sul laboratorio e parteciperemo a un panel (**Lingcomm with young people**) durante la conferenza.
+	- Due paper che parlano della nostra attività sono stati accettati al workshop [TeachingNLP](https://sites.google.com/view/teaching-nlp-workshop/) e saranno presentati durante [NAACL2021](https://2021.naacl.org/)
 
 - Con [Malvina Nissim](https://malvinanissim.github.io/), abbiamo scritto un [articolo divulgativo](https://www.linguisticamente.org/ma-un-computer-mi-capisce-cose-e-a-cosa-serve-la-linguistica-computazionale/) su cosa sia la Linguistica Computazionale, per il sito [Linguisticamente](https://www.linguisticamente.org/) creato da Nicola Grandi, Nicole Marinaro, Francesca Masini e Alex Piovan. E c'è una sorpresa in arrivo!
 
