@@ -66,6 +66,7 @@ Feel free to get in touch with me, for clarifications, suggestions, or just a ch
 - Sto partecipando all'edizione 2020-2021 di [Penne Amiche della Scienza](https://sites.google.com/view/penne-amiche-della-scienza/home?authuser=0):
 	- Ho inviato la mia prima [lettera](../files/Novembre.pdf) alla classe! 
 	- Ho inviato la mia seconda [lettera](../files/Gennaio.pdf) alla classe! 
+	- Ho inviato la mia terza [lettera](../files/Aprile.pdf) alla classe!
 
 
 
