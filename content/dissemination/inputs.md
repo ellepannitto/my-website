@@ -48,7 +48,9 @@ Feel free to get in touch with me, for clarifications, suggestions, or just a ch
  # CSS class.
  css_class = ""
 +++
-- Il 20 maggio 2020 ho partecipato a [Pronto Scienziatə](../img/pronto_scienziat.jpg), evento organizzato da [Penne Amiche della Scienza](https://sites.google.com/view/penne-amiche-della-scienza) e [500 women scientists Pisa](https://www.facebook.com/500wsPisa/). 
+- Il 31 maggio 2021 ho tenuto con [Malvina Nissim](https://malvinanissim.github.io/) un [seminario](https://webmagazine.unitn.it/evento/collegiobernardoclesio/94869/ma-un-computer-mi-capisce-cos-e-a-cosa-serve-la-linguistica) presso il [Collegio Bernardo Clesio] dell'Università di Trento, dal titolo _"Ma un computer mi capisce? Cos’è e a cosa serve la Linguistica Computazionale"_. Grazie a Emma Zanoli per l'invito! :)
+
+- Il 20 maggio 2021 ho partecipato a [Pronto Scienziatə](../img/pronto_scienziat.jpg), evento organizzato da [Penne Amiche della Scienza](https://sites.google.com/view/penne-amiche-della-scienza) e [500 women scientists Pisa](https://www.facebook.com/500wsPisa/). 
 
 - Sto partecipando all'edizione 2020-2021 di [Penne Amiche della Scienza](https://sites.google.com/view/penne-amiche-della-scienza/home?authuser=0):
 	- Ho inviato la mia prima [lettera](../files/Novembre.pdf) alla classe! 
