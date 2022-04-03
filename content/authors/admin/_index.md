@@ -67,7 +67,7 @@ user_groups: []
 
 ---
 
-I am a third year PhD student at the Center for Mind/Brain Sciences ([CIMeC](https://www.cimec.unitn.it/)) at [University of Trento](https://www.unitn.it/en), under the supervision of [Aurélie Herbelot](https://aurelieherbelot.net/) in the [CALM](https://www.cimec.unitn.it/en/1013/computational-approaches-to-language-and-meaning-calm) group. 
+I am a fourth year PhD student at the Center for Mind/Brain Sciences ([CIMeC](https://www.cimec.unitn.it/)) at [University of Trento](https://www.unitn.it/en), under the supervision of [Aurélie Herbelot](https://aurelieherbelot.net/) in the [CALM](https://www.cimec.unitn.it/en/1013/computational-approaches-to-language-and-meaning-calm) group. 
 My research fields are Computational Semantics and Natural Language Processing.
 
 Everything in life is a _work-in-progress_, this place especially.

@@ -1,24 +1,28 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A dissemination workshop for introducing young Italian students to NLP"
-authors: [Lucio Messina, Lucia Busso, Claudia Roberta Combei, Alessio Miaschi, Ludovica Pannitto, Gabriele Sarti, Malvina Nissim]
-date: 2021-06-01T15:15:59+02:00
+title: "Can Recurrent Neural Networks Validate Usage-Based Theories of Grammar Acquisition?"
+authors:
+- admin
+- Aurélie Herbelot
+date: 2022-03-23T20:37:47+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-05-07T15:15:59+02:00
+publishDate: 2022-03-02T20:37:47+03:00
+
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Fifth Workshop on Teaching NLP"
-
-abstract: "We describe and make available the game-based material developed for a laboratory run at several Italian science festivals to popularize NLP among young students."
+publication: "Can Recurrent Neural Networks Validate Usage-Based Theories of Grammar Acquisition?"
+publication_short: "RNNs and Grammar Acquisition"
+ 
+abstract: "It has been shown that Recurrent Artificial Neural Networks automatically acquire some grammatical knowledge in the course of performing linguistic prediction tasks. The extent to which such networks can actually learn grammar is still an object of investigation. However, being mostly data-driven, they provide a natural testbed for usage-based theories of language acquisition. This mini-review gives an overview of the state of the field, focusing on the influence of the theoretical framework in the interpretation of results."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,14 +39,14 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.aclweb.org/anthology/2021.teachingnlp-1.7.pdf
+url_pdf: https://www.frontiersin.org/articles/10.3389/fpsyg.2022.741321/full
 url_code: 
-url_dataset: 
+url_dataset:
 url_poster:
-url_project: https://www.aclweb.org/anthology/attachments/2021.teachingnlp-1.7.OptionalSupplementaryMaterial.zip
-url_slides:  
+url_project:
+url_slides:
 url_source:
-url_video: 
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
