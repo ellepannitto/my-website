@@ -46,6 +46,10 @@ weight = 1  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
+**Jul 2022**: Reviewing for [COLING2022](https://coling2022.org/)
+
+**Jun 2022**: A new [book](http://www.carocci.it/index.php?option=com_carocci&task=schedalibro&Itemid=72&isbn=9788829013418) is out! This is the result of an amazing collaboration with [Malvina Nissim](https://malvinanissim.github.io/)
+
 **Mar 2022**: Our latest [paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.741321/full) is out! 
 
 **Oct-Nov 2021**: I gave an introductory _Python for humanities_ course at University of Bologna. Materials can be found [here](https://drive.google.com/drive/folders/1p0Ld9Bm1asUbrsUDGA5-bIegNCUjYDjS?usp=sharing).
