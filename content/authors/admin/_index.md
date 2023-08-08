@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student in Computational Linguistics
+role: NLP Lab Manager
 
 # Organizations/Affiliations
 organizations:
-- name: CIMEC - University of Trento
-  url: "https://www.cimec.unitn.it/"
+- name: Laboratorio Sperimentale - LILEC - University of Bologna
+  url: "https://site.unibo.it/laboratorio-sperimentale"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a third year PhD student in Computational Semantics at the CLIC (Language, Interaction and Computation) Laboratory at CIMeC.
+bio: NLP Lab Manager at Laboratorio Sperimentale (LILEC, Univeristy of Bologna).
 
 #interests: []
 
@@ -48,9 +48,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?user=8oLH83IAAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ellepannitto
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -59,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ludovica.pannitto@unibo.it"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -67,7 +67,12 @@ user_groups: []
 
 ---
 
-I am a fourth year PhD student at the Center for Mind/Brain Sciences ([CIMeC](https://www.cimec.unitn.it/)) at [University of Trento](https://www.unitn.it/en), under the supervision of [Aurélie Herbelot](https://aurelieherbelot.net/) in the [CALM](https://www.cimec.unitn.it/en/1013/computational-approaches-to-language-and-meaning-calm) group. 
-My research fields are Computational Semantics and Natural Language Processing.
+I am currently the NLP Lab Manager at [Laboratorio Sperimentale](https://site.unibo.it/laboratorio-sperimentale), a research lab set up at [LILEC, University of Bologna](https://lingue.unibo.it) and equipped with state-of-the-art hardware and software for experimental, computational and applied research in the fields of linguistics, translation and cultural studies. The current Scientific Coordinator of the Lab is prof. [Francesca Masini](https://www.unibo.it/sitoweb/francesca.masini).
+
+Before this, I got my PhD at [CIMeC](https://www.cimec.unitn.it/) - [University of Trento](https://www.unitn.it/en), under the supervision of [Aurélie Herbelot](https://aurelieherbelot.net/).
+
+My research interests are Computational Construction Grammars, Cognitive Linguistics and Natural Language Processing.
+
+On the side, I am studying to become Italian Sign Language interpreter and I would very much like to bring this interest of mine into my research as well.
 
 Everything in life is a _work-in-progress_, this place especially.

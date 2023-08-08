@@ -16,7 +16,7 @@
   parent="home"
   
 [[main]]
-  name = "Education"
+  name = "Education Experience"
   url = "#experience"
   weight = 12 
   parent="home"

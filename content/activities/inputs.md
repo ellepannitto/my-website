@@ -46,6 +46,14 @@ weight = 1  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
+**Aug-Sep 2023**: Reviewing for [Constructions and Frames](https://benjamins.com/catalog/cf)
+
+**17 May 2023**: I've finally defended my PhD Thesis and graduated from University of Trento!
+
+**Mar 2023**: I've been to [CxGs+NLP](https://sites.google.com/view/cxgsnlpworkshop), the first international workshop on Construction Grammars and NLP at Georgetown University in Washington D.C.  
+
+**Sep 2022**: I went to [ASPP2022](https://aspp.school/2022-bilbao/schedule.html) - _Advanced Scientific Programming in Python Summer School_ - in Bilbao, Basque Country, Spain. It's been an extraordinary experience which I recommend to any PhD student or researcher that wants to take their programming expertise up a notch. Moreover, one of the very few truly inclusive and welcoming human environments I've encountered in academia.
+
 **Jul 2022**: Reviewing for [COLING2022](https://coling2022.org/)
 
 **Jun 2022**: A new [book](http://www.carocci.it/index.php?option=com_carocci&task=schedalibro&Itemid=72&isbn=9788829013418) is out! This is the result of an amazing collaboration with [Malvina Nissim](https://malvinanissim.github.io/)
