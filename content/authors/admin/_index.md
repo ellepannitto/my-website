@@ -73,6 +73,6 @@ Before this, I got my PhD at [CIMeC](https://www.cimec.unitn.it/) - [University 
 
 My research interests are Computational Construction Grammars, Cognitive Linguistics and Natural Language Processing.
 
-On the side, I am studying to become Italian Sign Language interpreter and I would very much like to bring this interest of mine into my research as well.
+On the side, I am studying to become Italian Sign Language (LIS) interpreter and I would very much like to bring this interest of mine into my research as well.
 
 Everything in life is a _work-in-progress_, this place especially.
