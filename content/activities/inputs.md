@@ -23,11 +23,11 @@ weight = 1  # Order that this section will appear.
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   #image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
   #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -40,17 +40,23 @@ weight = 1  # Order that this section will appear.
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
+**Dec 2023**: Reviewing for [LREC-COLING 2024](https://lrec-coling-2024.org/)
+
+**Dec 2023**: I gave a tutorial (6 lectures) on Distributional Semantics and Distributional Semantics Models within the master course held by prof. [Francesca Masini](https://www.unibo.it/sitoweb/francesca.masini). Materials can be found here: [code](https://github.com/LaboratorioSperimentale/dsmagic), [notebooks and slides](https://drive.google.com/drive/folders/1GPAQpJS-xNg9Xcj07KGCpqKSwN9pTtqS?usp=sharing)
+
+**6 Dec 2023**: I gave a lecture about Computational Linguistics Applications in the Italian landscape within the bachelor course held by prof. [Silvia Ballarè](https://www.unibo.it/sitoweb/silvia.ballare). Materials can be found [here](https://github.com/ellepannitto/gxg-tutorial)
+
 **Aug-Sep 2023**: Reviewing for [Constructions and Frames](https://benjamins.com/catalog/cf)
 
 **17 May 2023**: I've finally defended my PhD Thesis and graduated from University of Trento!
 
-**Mar 2023**: I've been to [CxGs+NLP](https://sites.google.com/view/cxgsnlpworkshop), the first international workshop on Construction Grammars and NLP at Georgetown University in Washington D.C.  
+**Mar 2023**: I've been to [CxGs+NLP](https://sites.google.com/view/cxgsnlpworkshop), the first international workshop on Construction Grammars and NLP at Georgetown University in Washington D.C.
 
 **Sep 2022**: I went to [ASPP2022](https://aspp.school/2022-bilbao/schedule.html) - _Advanced Scientific Programming in Python Summer School_ - in Bilbao, Basque Country, Spain. It's been an extraordinary experience which I recommend to any PhD student or researcher that wants to take their programming expertise up a notch. Moreover, one of the very few truly inclusive and welcoming human environments I've encountered in academia.
 
@@ -58,7 +64,7 @@ weight = 1  # Order that this section will appear.
 
 **Jun 2022**: A new [book](http://www.carocci.it/index.php?option=com_carocci&task=schedalibro&Itemid=72&isbn=9788829013418) is out! This is the result of an amazing collaboration with [Malvina Nissim](https://malvinanissim.github.io/)
 
-**Mar 2022**: Our latest [paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.741321/full) is out! 
+**Mar 2022**: Our latest [paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.741321/full) is out!
 
 **Oct-Nov 2021**: I gave an introductory _Python for humanities_ course at University of Bologna. Materials can be found [here](https://drive.google.com/drive/folders/1p0Ld9Bm1asUbrsUDGA5-bIegNCUjYDjS?usp=sharing).
 
@@ -82,7 +88,7 @@ weight = 1  # Order that this section will appear.
 
 **Dec 2020 - Jan 2021**: I'm co-organizing the 2021 CIMeC Doctoral Student Day. [**flyer**](../files/schedule_dsday.pdf)
 
-**16-20 Nov 2020**: EMNLP and CoNLL are happening this week! During CoNLL session 5 on Friday 20th I'll be available to answer questions and have a chat about our paper [Recurrent babbling: evaluating the acquisition of grammar from limited input data](https://www.aclweb.org/anthology/2020.conll-1.13.pdf) 
+**16-20 Nov 2020**: EMNLP and CoNLL are happening this week! During CoNLL session 5 on Friday 20th I'll be available to answer questions and have a chat about our paper [Recurrent babbling: evaluating the acquisition of grammar from limited input data](https://www.aclweb.org/anthology/2020.conll-1.13.pdf)
 
 **Oct 2020**: Reviewing for [DANKMEMES2020](https://dankmemes2020.fileli.unipi.it/)
 
@@ -122,7 +128,7 @@ weight = 1  # Order that this section will appear.
 
 **11 Oct 2018**: I've graduted from master, [[slides]](../files/slides_master.pdf)
 
-**6-17 Aug 2018**: I've been at the 30th edition of [ESSLLI](http://esslli2018.folli.info/) (European Summer School in Logic, Language and Information) in Sofia. Here's a list of the courses I took: 
+**6-17 Aug 2018**: I've been at the 30th edition of [ESSLLI](http://esslli2018.folli.info/) (European Summer School in Logic, Language and Information) in Sofia. Here's a list of the courses I took:
 [Advanced Regression Methods for Linguistics](http://esslli2018.folli.info/advanced-regression-methods-for-linguistics/),
 [Computational Models of Events](http://esslli2018.folli.info/computational-models-of-events/),
 [Multiword Expressions in a Nutshell](http://esslli2018.folli.info/multiword-expressions-in-a-nutshell/),
